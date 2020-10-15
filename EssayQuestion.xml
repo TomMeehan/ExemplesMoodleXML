@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<question type="essay">
+	<name>
+		<text>Demo question essay</text>
+	</name>
+    <answer fraction="0">
+        <text>Ecrire un essay</essay>
+    </answer>
+</question>
