@@ -12,7 +12,7 @@
 	<answer fraction="100">
 		<text>Ceci est la bonne réponse</text>
 		<feedback>
-			<text>Bravo !</text>
+			<text>Bravo t'es fier de toi c'est ça ?!</text>
 		</feedback>
 	</answer>
 	<answer fraction="0">
