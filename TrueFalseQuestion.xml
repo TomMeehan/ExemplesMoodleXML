@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<question type="truefalse">
+    <name>
+		<text>Ma question True/False</text>
+	</name>
+    <questiontext format="html">
+		<text>Git c'est trop bien !</text>
+	</questiontext>
+    <answer fraction="100">
+        <text>Vrai</text>
+        <feedback><text>Bravo!</text></feedback>
+    </answer>
+    <answer fraction="0">
+        <text>Faux</text>
+        <feedback><text>Oops!</text></feedback>
+    </answer>
+</question>
